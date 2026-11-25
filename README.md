@@ -1,4 +1,4 @@
-# COMP693_25S1_project_Jingjing_Ma_1157669
+#  Christchurch Suburb Property Analysis
 ## Christchurch Suburb Property Analysis (R + Python)
 
 This project analyzes property price variations across Christchurch suburbs and explores how demographic factors (ethnicity), household income, and land classifications influence housing prices. The analysis spans from 2018 to 2023, providing insights into price trends and their determinants.
